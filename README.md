@@ -18,7 +18,7 @@ What is driving sales across the three stores, and where is the business missing
 
 - A public coffee shop sales dataset with 149,116 transactions across three NYC locations: Astoria, Hell's Kitchen and Lower Manhattan.
 - Data period: January to June 2023.
-- Source: https://mavenanalytics.io/guided-projects/coffee-shop-dashboard
+- Source: https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip
 
 ## Process
 
